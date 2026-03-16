@@ -1,31 +1,47 @@
 aid: habitat-lab
 name: Habitat Lab
 description: >-
-  An overview of Habitat 2.0 with documentation, quickstart code, and
-  reproducing the benchmark results. 
+  Habitat Lab is Meta AI Research's embodied AI simulation platform. It
+  provides documentation, quickstart code, and tools for training and
+  evaluating AI agents in photorealistic 3D environments, with Habitat 2.0
+  focusing on household rearrangement tasks.
 type: Index
-position: Consumer
-access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
-created: '2025-02-17'
-modified: '2025-02-17'
+  - Artificial Intelligence
+  - Robotics
+  - Simulation
+  - Embodied AI
+  - Research
 url: >-
   https://raw.githubusercontent.com/api-evangelist/habitat-lab/refs/heads/main/apis.yml
+created: '2025-02-17'
+modified: '2026-03-16'
 specificationVersion: '0.19'
 apis:
   - aid: habitat-lab:habitat-lab
     name: Habitat Lab
     description: >-
-      An overview of Habitat 2.0 with documentation, quickstart code, and
-      reproducing the benchmark results. 
-    humanURL: ' https://aihabitat.org/docs/habitat-lab/habitat2.html'
+      Habitat Lab provides an overview of Habitat 2.0 with documentation,
+      quickstart code, and reproducing benchmark results for embodied AI
+      research in simulated 3D environments.
+    humanURL: https://aihabitat.org/docs/habitat-lab/habitat2.html
     tags:
-      - API
+      - Simulation
+      - Artificial Intelligence
+      - Research
     properties:
       - type: Documentation
-        url: ' https://aihabitat.org/docs/habitat-lab/habitat2.html'
+        url: https://aihabitat.org/docs/habitat-lab/habitat2.html
+      - type: Getting Started
+        url: https://aihabitat.org/docs/habitat-lab/habitat2.html#quickstart
+common:
+  - type: Website
+    url: https://aihabitat.org/
+  - type: Documentation
+    url: https://aihabitat.org/docs/habitat-lab/
+  - type: GitHub Organization
+    url: https://github.com/facebookresearch/habitat-lab
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
