@@ -9,10 +9,10 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Artificial Intelligence
-  - Robotics
-  - Simulation
   - Embodied AI
   - Research
+  - Robotics
+  - Simulation
 url: >-
   https://raw.githubusercontent.com/api-evangelist/habitat-lab/refs/heads/main/apis.yml
 created: '2025-02-17'
@@ -27,9 +27,9 @@ apis:
       research in simulated 3D environments.
     humanURL: https://aihabitat.org/docs/habitat-lab/habitat2.html
     tags:
-      - Simulation
       - Artificial Intelligence
       - Research
+      - Simulation
     properties:
       - type: Documentation
         url: https://aihabitat.org/docs/habitat-lab/habitat2.html
