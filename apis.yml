@@ -35,7 +35,7 @@ apis:
     properties:
       - type: Documentation
         url: https://aihabitat.org/docs/habitat-lab/habitat2.html
-      - type: Getting Started
+      - type: GettingStarted
         url: https://aihabitat.org/docs/habitat-lab/habitat2.html#quickstart
       - type: SourceCode
         url: https://github.com/facebookresearch/habitat-lab
@@ -44,7 +44,7 @@ common:
     url: https://aihabitat.org/
   - type: Documentation
     url: https://aihabitat.org/docs/habitat-lab/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/facebookresearch/habitat-lab
 maintainers:
   - FN: Kin Lane
