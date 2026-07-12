@@ -40,6 +40,8 @@ apis:
       - type: SourceCode
         url: https://github.com/facebookresearch/habitat-lab
 common:
+  - type: DomainSecurity
+    url: security/habitat-lab-domain-security.yml
   - type: Website
     url: https://aihabitat.org/
   - type: Documentation
