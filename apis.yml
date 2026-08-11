@@ -52,6 +52,17 @@ apis:
       - type: SourceCode
         url: https://github.com/facebookresearch/habitat-lab
 common:
+  - type: IssueTracker
+    url: https://github.com/facebookresearch/habitat-lab/issues
+  - type: Releases
+    url: https://github.com/facebookresearch/habitat-lab/releases
+  - type: CodeOfConduct
+    url: https://github.com/facebookresearch/habitat-lab/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/facebookresearch/habitat-lab/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/facebookresearch/habitat-lab/blob/main/LICENSE
   - type: DomainSecurity
     url: security/habitat-lab-domain-security.yml
   - type: Website
