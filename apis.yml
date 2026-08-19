@@ -30,7 +30,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/habitat-lab/refs/heads/main/apis.yml
 created: '2025-02-17'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: habitat-lab:habitat-lab
     name: Habitat Lab
